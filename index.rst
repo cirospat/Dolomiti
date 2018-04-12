@@ -24,6 +24,9 @@ Estate Family
 
 \ |LINK1|\ 
 
+
+|REPLACE1|
+
 |
 
 .. _h61237a7286464541c38424627173f20:
@@ -34,7 +37,7 @@ Escursioni nei dintorni di Trento e Auronzo Cadore
 \ |LINK2|\ 
 
 
-|REPLACE1|
+|REPLACE2|
 
 |
 
@@ -52,8 +55,10 @@ Il Trentino dei bambini
 
 .. |REPLACE1| raw:: html
 
+    <iframe src="https://estatefamily.it/" width="640" height="480"></iframe>
+.. |REPLACE2| raw:: html
+
     <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0" width="640" height="480"></iframe>
-    </iframe><p><a href="https://www.google.com/maps/d/u/1/embed?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0">Visualizza a schermo intero</a></p>
 
 .. |LINK1| raw:: html
 
