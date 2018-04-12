@@ -15,7 +15,7 @@
 DOLOMITI ESTATE 2018
 ####################
 
-Risorse
+I contenuti di questa pagina Google Doc vengono esposti su \ |LINK1|\  comodamente consultabile su smartphone
 
 \ |IMG1|\ 
 
@@ -24,7 +24,7 @@ Risorse
 Estate Family
 *************
 
-\ |LINK1|\ 
+Mappa con eventi di interesse per le famiglie in Trentino: \ |LINK2|\ 
 
 |
 
@@ -33,7 +33,7 @@ Estate Family
 Escursioni nei dintorni di Trento e Auronzo Cadore
 **************************************************
 
-\ |LINK2|\ 
+\ |LINK3|\ 
 
 
 |REPLACE1|
@@ -45,9 +45,9 @@ Escursioni nei dintorni di Trento e Auronzo Cadore
 Il Trentino dei bambini
 ***********************
 
-\ |LINK3|\  
+\ |LINK4|\  
 
-\ |LINK4|\   (laghi) 
+\ |LINK5|\   (laghi) 
 
 |
 
@@ -56,7 +56,7 @@ Il Trentino dei bambini
 Come scegliere lo zaino porta bambini
 *************************************
 
-\ |LINK5|\  
+\ |LINK6|\  
 
 |
 
@@ -65,7 +65,10 @@ Come scegliere lo zaino porta bambini
 Trentino Famiglia appuntamenti sul territorio
 *********************************************
 
-\ |LINK6|\  
+\ |LINK7|\  
+
+|
+
 
 .. bottom of content
 
@@ -76,25 +79,29 @@ Trentino Famiglia appuntamenti sul territorio
 
 .. |LINK1| raw:: html
 
-    <a href="https://estatefamily.it/" target="_blank">https://estatefamily.it/</a>
+    <a href="http://dolomiti2018.readthedocs.io" target="_blank">dolomiti2018.readthedocs.io</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://www.google.com/maps/d/u/1/edit?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0&ll=46.04223529100524%2C11.031806791015697&z=9" target="_blank">Mappa personalizzata tappe su Google</a>
+    <a href="https://estatefamily.it/" target="_blank">https://estatefamily.it/</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://www.iltrentinodeibambini.it" target="_blank">http://www.iltrentinodeibambini.it</a>
+    <a href="https://www.google.com/maps/d/u/1/edit?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0&ll=46.04223529100524%2C11.031806791015697&z=9" target="_blank">Mappa personalizzata con tappe costruita su Google Maps</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago" target="_blank">http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago</a>
+    <a href="http://www.iltrentinodeibambini.it" target="_blank">http://www.iltrentinodeibambini.it</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
+    <a href="http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago" target="_blank">http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago</a>
 
 .. |LINK6| raw:: html
+
+    <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
+
+.. |LINK7| raw:: html
 
     <a href="https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio" target="_blank">https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio</a>
 
