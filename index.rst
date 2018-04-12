@@ -58,6 +58,15 @@ Come scegliere lo zaino porta bambini
 
 \ |LINK5|\  
 
+|
+
+.. _h6a687b3768134322d3f47805b5e5e4f:
+
+Trentino Famiglia appuntamenti sul territorio
+*********************************************
+
+\ |LINK6|\  
+
 .. bottom of content
 
 
@@ -84,6 +93,10 @@ Come scegliere lo zaino porta bambini
 .. |LINK5| raw:: html
 
     <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio" target="_blank">https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio</a>
 
 
 .. |IMG1| image:: static/Dolomiti-index_1.png
