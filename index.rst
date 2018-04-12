@@ -5,17 +5,12 @@
 
     index
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 .. _h4d311a9345a4f785d773c537c53332c:
 
 DOLOMITI ESTATE 2018
 ####################
 
-I contenuti di questa pagina Google Doc vengono esposti automaticamente sul link \ |LINK1|\  comodamente consultabile su smartphone (utile in viaggio).
+[I contenuti di questa pagina Google Doc vengono esposti automaticamente sul link \ |LINK1|\  comodamente consultabile su smartphone, utile in viaggio]
 
 \ |IMG1|\ 
 
