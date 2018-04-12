@@ -15,7 +15,7 @@
 DOLOMITI ESTATE 2018
 ####################
 
-I contenuti di questa pagina Google Doc vengono esposti su \ |LINK1|\  comodamente consultabile su smartphone
+I contenuti di questa pagina Google Doc vengono esposti automaticamente sul link \ |LINK1|\  comodamente consultabile su smartphone (utile in viaggio).
 
 \ |IMG1|\ 
 
