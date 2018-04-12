@@ -53,7 +53,7 @@ Il Trentino dei bambini
 .. |REPLACE1| raw:: html
 
     <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0" width="640" height="480"></iframe>
-    </iframe><p><a href="https://cirospat.github.io/maps/">Visualizza a schermo intero</a></p>
+    </iframe><p><a href="https://www.google.com/maps/d/u/1/embed?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0">Visualizza a schermo intero</a></p>
 
 .. |LINK1| raw:: html
 
