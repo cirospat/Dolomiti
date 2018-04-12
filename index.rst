@@ -10,10 +10,12 @@
 
 
 
-.. _h8611679283539448204a614c2e5:
+.. _h4d311a9345a4f785d773c537c53332c:
 
-DOLOMITI
-########
+DOLOMITI ESTATE 2018
+####################
+
+Risorse
 
 \ |IMG1|\ 
 
@@ -47,6 +49,15 @@ Il Trentino dei bambini
 
 \ |LINK4|\   (laghi) 
 
+|
+
+.. _h666f55657173277b551a796e3d11237e:
+
+Come scegliere lo zaino porta bambini
+*************************************
+
+\ |LINK5|\  
+
 .. bottom of content
 
 
@@ -69,6 +80,10 @@ Il Trentino dei bambini
 .. |LINK4| raw:: html
 
     <a href="http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago" target="_blank">http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
 
 
 .. |IMG1| image:: static/Dolomiti-index_1.png
