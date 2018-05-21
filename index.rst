@@ -53,6 +53,10 @@ Come scegliere lo zaino porta bambini
 
 \ |LINK6|\  
 
+\ |LINK7|\ 
+
+\ |LINK8|\  ho visto nel sito un giorno di affitto zaino costa 11.70 euro.
+
 |
 
 .. _h6a687b3768134322d3f47805b5e5e4f:
@@ -60,7 +64,7 @@ Come scegliere lo zaino porta bambini
 Trentino Famiglia appuntamenti sul territorio
 *********************************************
 
-\ |LINK7|\  
+\ |LINK9|\  
 
 |
 
@@ -97,6 +101,14 @@ Trentino Famiglia appuntamenti sul territorio
     <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
 
 .. |LINK7| raw:: html
+
+    <a href="http://www.cortinadolomiti.eu/IT/noleggio-snow-service1" target="_blank">http://www.cortinadolomiti.eu/IT/noleggio-snow-service1</a>
+
+.. |LINK8| raw:: html
+
+    <a href="https://www.snowservice.it/estate/" target="_blank">https://www.snowservice.it/estate/</a>
+
+.. |LINK9| raw:: html
 
     <a href="https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio" target="_blank">https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio</a>
 
