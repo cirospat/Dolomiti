@@ -4,7 +4,7 @@
 Minchia... le Dolomiti! 
 ########################
 
-\ |LINK1|\  & powered by \ |LINK2|\ . Uno dei territori più incantevoli d'Italia.
+\ |LINK1|\  & powered by \ |LINK2|\ . Uno dei territori più incantevoli d'Italia per montagne, valli, fiumi e laghi. Un viaggio che comincia da una mappa delle Dolomiti avuta nel giugno 2016 a Portobeseno, e da un mantra di Andrea "\ |STYLE0|\ " per l'ammirazione verso questi luoghi.
 
 \ |IMG1|\ 
 
@@ -20,7 +20,7 @@ Minchia... le Dolomiti!
 Itinerario seguito a lug-ago 2018 da Ciro, Antonio  & families
 **************************************************************
 
-\ |STYLE0|\  \ |LINK3|\ \ |STYLE1|\  \ |LINK4|\ \ |STYLE2|\ 
+\ |STYLE1|\  \ |LINK3|\ \ |STYLE2|\  \ |LINK4|\ \ |STYLE3|\ 
 
 * \ |LINK5|\  (possibilità di fare bagni in estate)
 
@@ -93,17 +93,19 @@ Lo zaino porta bimbi
 
 ..  Note:: 
 
-    [I contenuti di questa pagina sono editati su Google Doc e tramite il plugin GGeditor (tutorial = \ |LINK25|\ ) vengono esposti automaticamente sul link \ |LINK26|\ , comodamente consultabile su smartphone, molto utile in viaggio]
+    I contenuti di questa pagina sono editati su Google Doc e tramite il plugin GGeditor (tutorial = \ |LINK25|\ ) vengono esposti automaticamente su \ |LINK26|\ , comodamente consultabile su smartphone, molto utile in viaggio.
 
 
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Le foto (di**
+.. |STYLE0| replace:: *minchia… le Dolomiti!*
 
-.. |STYLE1| replace:: **) degli itinerari sono disponibili in**
+.. |STYLE1| replace:: **Le foto (di**
 
-.. |STYLE2| replace:: **.**
+.. |STYLE2| replace:: **) degli itinerari sono disponibili in**
+
+.. |STYLE3| replace:: **.**
 
 
 .. |REPLACE1| raw:: html
@@ -212,7 +214,7 @@ Lo zaino porta bimbi
 
 .. |LINK26| raw:: html
 
-    <a href="http://dolomiti2018.readthedocs.io" target="_blank">dolomiti2018.readthedocs.io</a>
+    <a href="https://minchia-le-dolomiti.readthedocs.io" target="_blank">minchia-le-dolomiti.readthedocs.io</a>
 
 
 .. |IMG1| image:: static/Dolomiti-index_1.png
