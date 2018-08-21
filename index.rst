@@ -34,19 +34,19 @@ Itinerario seguito a lug-ago 2018 da Ciro, Antonio  & families
 
 * Albergo Malga Ciapela - \ |LINK10|\   (trekking medio con forti salite all'andata)
 
-* Valle Ansiei (\ |LINK11|\  casa colonica, base dei pernottamenti, struttura altamente specializzata per persone con disabilità)
+* Valle Ansiei (\ |LINK11|\  casa colonica, base dei pernottamenti, \ |LINK12|\ )
 
-* \ |LINK12|\ 
+* \ |LINK13|\ 
 
-* \ |LINK13|\  nella Valle di Ansiei (trekking facili per famiglie con bambini)
+* \ |LINK14|\  nella Valle di Ansiei (trekking facili per famiglie con bambini)
 
-* \ |LINK14|\  (trekking lungo per famiglie con bambini, 5-6 ore)
-
-* \ |LINK15|\  e montagne sopra il lago (trekking lunghi possibili e discesa a piedi dopo la salita in seggiovia)
+* \ |LINK15|\  (trekking lungo per famiglie con bambini, 5-6 ore)
 
 * \ |LINK16|\  e montagne sopra il lago (trekking lunghi possibili e discesa a piedi dopo la salita in seggiovia)
 
-* \ |LINK17|\  (trekking facili per famiglie con bambini)
+* \ |LINK17|\  e montagne sopra il lago (trekking lunghi possibili e discesa a piedi dopo la salita in seggiovia)
+
+* \ |LINK18|\  (trekking facili per famiglie con bambini)
 
 |
 
@@ -55,7 +55,7 @@ Itinerario seguito a lug-ago 2018 da Ciro, Antonio  & families
 Escursioni possibili nei dintorni di Trento e di Auronzo di Cadore
 ******************************************************************
 
-Grazie a Francesca Gleria e Maurizio Napolitano per alcuni suggerimenti. \ |LINK18|\ 
+Grazie a Francesca Gleria e Maurizio Napolitano per alcuni suggerimenti. \ |LINK19|\ 
 
 |REPLACE1|
 
@@ -66,13 +66,13 @@ Grazie a Francesca Gleria e Maurizio Napolitano per alcuni suggerimenti. \ |LINK
 Il Trentino dei bambini e delle famiglie
 ****************************************
 
-* \ |LINK19|\  
+* \ |LINK20|\  
 
-* \ |LINK20|\   (laghi) 
+* \ |LINK21|\   (laghi) 
 
-* \ |LINK21|\  (mappa con eventi di interesse per le famiglie in Trentino)
+* \ |LINK22|\  (mappa con eventi di interesse per le famiglie in Trentino)
 
-* \ |LINK22|\  (appuntamenti sul territorio)
+* \ |LINK23|\  (appuntamenti sul territorio)
 
 |
 
@@ -81,16 +81,16 @@ Il Trentino dei bambini e delle famiglie
 Lo zaino porta bimbi
 ********************
 
-* \ |LINK23|\  
+* \ |LINK24|\  
 
-* \ |LINK24|\  (affitto zaino)
+* \ |LINK25|\  (affitto zaino)
 
 |
 
 
 ..  Note:: 
 
-    I contenuti di questa pagina sono editati su Google Doc e tramite il plugin GGeditor (tutorial = \ |LINK25|\ ) vengono esposti automaticamente su \ |LINK26|\ , comodamente consultabile su smartphone, molto utile in viaggio.
+    I contenuti di questa pagina sono editati su Google Doc e tramite il plugin GGeditor (tutorial = \ |LINK26|\ ) vengono esposti automaticamente su \ |LINK27|\ , comodamente consultabile su smartphone, molto utile in viaggio.
 
 
 .. bottom of content
@@ -155,61 +155,65 @@ Lo zaino porta bimbi
 
 .. |LINK12| raw:: html
 
-    <a href="https://www.google.it/maps/place/Malga+Maraia/@46.557728,12.2704087,5836m/data=!3m1!1e3!4m5!3m4!1s0x4779cb61258ee163:0xbccedd3305c93190!8m2!3d46.550747!4d12.2855667" target="_blank">Malga Maraia</a>
+    <a href="http://www.accoglienza.diocesi.it/strutture/villa-gregoriana/home" target="_blank">struttura altamente specializzata per persone con disabilità</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://www.google.it/maps/place/Parco+Naturale+Somadida/@46.533469,12.2482712,5198m/data=!3m1!1e3!4m5!3m4!1s0x4779cb0bd47df807:0x36510ab659a8164f!8m2!3d46.5301389!4d12.2645144" target="_blank">Parco Somadida</a>
+    <a href="https://www.google.it/maps/place/Malga+Maraia/@46.557728,12.2704087,5836m/data=!3m1!1e3!4m5!3m4!1s0x4779cb61258ee163:0xbccedd3305c93190!8m2!3d46.550747!4d12.2855667" target="_blank">Malga Maraia</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://www.google.it/maps/place/Tre+Cime+di+Lavaredo/@46.6192094,12.2908286,2476m/data=!3m1!1e3!4m5!3m4!1s0x477832ab852dd7bf:0x1c6dd1d90b67e9e!8m2!3d46.6186777!4d12.3027679" target="_blank">Tre cime di Lavaredo</a>
+    <a href="https://www.google.it/maps/place/Parco+Naturale+Somadida/@46.533469,12.2482712,5198m/data=!3m1!1e3!4m5!3m4!1s0x4779cb0bd47df807:0x36510ab659a8164f!8m2!3d46.5301389!4d12.2645144" target="_blank">Parco Somadida</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://www.google.it/maps/place/Lago+di+Misurina/@46.5825624,12.2505231,1697m/data=!3m1!1e3!4m5!3m4!1s0x4779ccc5ace48d17:0xbdeb91ec0d7d90f9!8m2!3d46.5825777!4d12.254444" target="_blank">Lago di Misurina</a>
+    <a href="https://www.google.it/maps/place/Tre+Cime+di+Lavaredo/@46.6192094,12.2908286,2476m/data=!3m1!1e3!4m5!3m4!1s0x477832ab852dd7bf:0x1c6dd1d90b67e9e!8m2!3d46.6186777!4d12.3027679" target="_blank">Tre cime di Lavaredo</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://www.google.it/maps/place/Lago+di+Auronzo/@46.5414899,12.4324468,6791m/data=!3m1!1e3!4m5!3m4!1s0x4779c5e876ad7fd9:0xbb8924cd7763adc1!8m2!3d46.543986!4d12.450793" target="_blank">Lago di Auronzo</a>
+    <a href="https://www.google.it/maps/place/Lago+di+Misurina/@46.5825624,12.2505231,1697m/data=!3m1!1e3!4m5!3m4!1s0x4779ccc5ace48d17:0xbdeb91ec0d7d90f9!8m2!3d46.5825777!4d12.254444" target="_blank">Lago di Misurina</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://www.google.it/maps/place/Val+Visdende/@46.626186,12.6032558,5949m/data=!3m1!1e3!4m5!3m4!1s0x4779dd10631807d9:0x8d44fc47f3e3e80a!8m2!3d46.6195641!4d12.6286142" target="_blank">Val Visdende</a>
+    <a href="https://www.google.it/maps/place/Lago+di+Auronzo/@46.5414899,12.4324468,6791m/data=!3m1!1e3!4m5!3m4!1s0x4779c5e876ad7fd9:0xbb8924cd7763adc1!8m2!3d46.543986!4d12.450793" target="_blank">Lago di Auronzo</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://www.google.com/maps/d/u/1/edit?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0&ll=46.04223529100524%2C11.031806791015697&z=9" target="_blank">Mappa personalizzata con tappe, costruita su Google Maps</a>
+    <a href="https://www.google.it/maps/place/Val+Visdende/@46.626186,12.6032558,5949m/data=!3m1!1e3!4m5!3m4!1s0x4779dd10631807d9:0x8d44fc47f3e3e80a!8m2!3d46.6195641!4d12.6286142" target="_blank">Val Visdende</a>
 
 .. |LINK19| raw:: html
 
-    <a href="http://www.iltrentinodeibambini.it" target="_blank">http://www.iltrentinodeibambini.it</a>
+    <a href="https://www.google.com/maps/d/u/1/edit?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0&ll=46.04223529100524%2C11.031806791015697&z=9" target="_blank">Mappa personalizzata con tappe, costruita su Google Maps</a>
 
 .. |LINK20| raw:: html
 
-    <a href="http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago" target="_blank">http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago</a>
+    <a href="http://www.iltrentinodeibambini.it" target="_blank">http://www.iltrentinodeibambini.it</a>
 
 .. |LINK21| raw:: html
 
-    <a href="https://estatefamily.it/" target="_blank">https://estatefamily.it</a>
+    <a href="http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago" target="_blank">http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago</a>
 
 .. |LINK22| raw:: html
 
-    <a href="https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio" target="_blank">https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio</a>
+    <a href="https://estatefamily.it/" target="_blank">https://estatefamily.it</a>
 
 .. |LINK23| raw:: html
 
-    <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
+    <a href="https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio" target="_blank">https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio</a>
 
 .. |LINK24| raw:: html
 
-    <a href="https://www.snowservice.it/estate/" target="_blank">https://www.snowservice.it/estate/</a>
+    <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
 
 .. |LINK25| raw:: html
 
-    <a href="https://googledocs.readthedocs.io" target="_blank">https://googledocs.readthedocs.io</a>
+    <a href="https://www.snowservice.it/estate/" target="_blank">https://www.snowservice.it/estate/</a>
 
 .. |LINK26| raw:: html
+
+    <a href="https://googledocs.readthedocs.io" target="_blank">https://googledocs.readthedocs.io</a>
+
+.. |LINK27| raw:: html
 
     <a href="https://minchia-le-dolomiti.readthedocs.io" target="_blank">minchia-le-dolomiti.readthedocs.io</a>
 
