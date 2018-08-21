@@ -92,7 +92,7 @@ Lo zaino porta bimbi
 
 ..  Note:: 
 
-    [I contenuti di questa pagina sono editati su Google Doc e vengono esposti automaticamente sul link \ |LINK24|\ , comodamente consultabile su smartphone, molto utile in viaggio]
+    [I contenuti di questa pagina sono editati su Google Doc e tramite il plugin GGeditor (tutorial = \ |LINK24|\ ) vengono esposti automaticamente sul link \ |LINK25|\ , comodamente consultabile su smartphone, molto utile in viaggio]
 
 
 .. bottom of content
@@ -195,6 +195,10 @@ Lo zaino porta bimbi
     <a href="https://www.snowservice.it/estate/" target="_blank">https://www.snowservice.it/estate/</a>
 
 .. |LINK24| raw:: html
+
+    <a href="https://googledocs.readthedocs.io" target="_blank">https://googledocs.readthedocs.io</a>
+
+.. |LINK25| raw:: html
 
     <a href="http://dolomiti2018.readthedocs.io" target="_blank">dolomiti2018.readthedocs.io</a>
 
