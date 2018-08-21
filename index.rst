@@ -5,11 +5,12 @@
 
     index
 
-.. _h4c188132d7960a19306bc4d361231:
+.. _h3e166ad6b27e35372d204f68381616:
 
-Minchia le Dolomiti! \ |LINK1|\  & powered by \ |LINK2|\ 
-#########################################################
+Minchia le Dolomiti! 
+#####################
 
+\ |LINK1|\  & powered by \ |LINK2|\ 
 
 ..  Note:: 
 
