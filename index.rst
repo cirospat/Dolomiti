@@ -18,9 +18,9 @@ Minchia... le Dolomiti!
 
 \ |IMG1|\ 
 
-.. _h462423195a6353a60652c2e281c7b:
+.. _h3f421d57417c327e3a708564237e10:
 
-Itinerario seguito nel 2018 da \ |LINK4|\  & family, Antonio & family
+Itinerario seguito nel 2018 da \ |LINK4|\  + family, Antonio + family
 *********************************************************************
 
 Le foto degli itinerari sono disponibili in \ |LINK5|\ .
