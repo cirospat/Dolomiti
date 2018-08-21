@@ -181,5 +181,5 @@ Scegliere lo zaino porta bambini
 
 
 .. |IMG1| image:: static/Dolomiti-index_1.png
-   :height: 186 px
-   :width: 252 px
+   :height: 281 px
+   :width: 601 px
