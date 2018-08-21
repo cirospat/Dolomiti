@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Dolomiti estate 2018'
+project = 'Minchia... le Dolomiti!'
 copyright = '= licenza CC BY cirospat'
 
 # The name of the Pygments (syntax highlighting) style to use.
