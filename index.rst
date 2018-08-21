@@ -12,6 +12,9 @@ Minchia... le Dolomiti!
 
 \ |LINK1|\  & powered by \ |LINK2|\ 
 
+Tributo ad uno dei luoghi naturali più incantevoli d'Italia.
+
+
 ..  Note:: 
 
     [I contenuti di questa pagina sono editati su Google Doc e vengono esposti automaticamente sul link \ |LINK3|\ , comodamente consultabile su smartphone, molto utile in viaggio]
@@ -23,11 +26,11 @@ Minchia... le Dolomiti!
 Itinerario seguito nel 2018 da Ciro & family, Antonio & family
 **************************************************************
 
-Le foto degli itinerari sono disponibili in \ |LINK4|\ .
+Le foto (di \ |LINK4|\ ) degli itinerari sono disponibili in \ |LINK5|\ .
 
-* \ |LINK5|\  (bagni)
+* \ |LINK6|\  (bagni)
 
-* \ |LINK6|\ 
+* \ |LINK7|\ 
 
 * Fontanazzo (paese per snack)
 
@@ -60,7 +63,7 @@ Escursioni possibili nei dintorni di Trento e Auronzo di Cadore
 
 (grazie a Francesca Gleria e Maurizio Napolitano per i suggerimenti)
 
-\ |LINK7|\ 
+\ |LINK8|\ 
 
 
 |REPLACE1|
@@ -72,9 +75,9 @@ Escursioni possibili nei dintorni di Trento e Auronzo di Cadore
 Il Trentino dei bambini
 ***********************
 
-\ |LINK8|\  
+\ |LINK9|\  
 
-\ |LINK9|\   (laghi) 
+\ |LINK10|\   (laghi) 
 
 |
 
@@ -83,7 +86,7 @@ Il Trentino dei bambini
 Estate Family
 *************
 
-Mappa con eventi di interesse per le famiglie in Trentino: \ |LINK10|\ 
+Mappa con eventi di interesse per le famiglie in Trentino: \ |LINK11|\ 
 
 |
 
@@ -92,7 +95,7 @@ Mappa con eventi di interesse per le famiglie in Trentino: \ |LINK10|\
 Trentino Famiglia appuntamenti sul territorio
 *********************************************
 
-\ |LINK11|\  
+\ |LINK12|\  
 
 |
 
@@ -101,11 +104,11 @@ Trentino Famiglia appuntamenti sul territorio
 Come scegliere lo zaino porta bambini
 *************************************
 
-* \ |LINK12|\  
+* \ |LINK13|\  
 
-* \ |LINK13|\ 
+* \ |LINK14|\ 
 
-* \ |LINK14|\  un giorno di affitto zaino costa 11.70 euro.
+* \ |LINK15|\  un giorno di affitto zaino costa 11.70 euro.
 
 |
 
@@ -130,45 +133,49 @@ Come scegliere lo zaino porta bambini
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.flickr.com/photos/cirospat/albums/72157670138461937" target="_blank">questo album di Flickr</a>
+    <a href="https://cirospat.readthedocs.io" target="_blank">Ciro Spataro</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Lago_di_Levico" target="_blank">Lago di Levico</a>
+    <a href="https://www.flickr.com/photos/cirospat/albums/72157670138461937" target="_blank">questo album di Flickr</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Lago_di_Tovel" target="_blank">Lago Tovel</a>
+    <a href="https://it.wikipedia.org/wiki/Lago_di_Levico" target="_blank">Lago di Levico</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://www.google.com/maps/d/u/1/edit?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0&ll=46.04223529100524%2C11.031806791015697&z=9" target="_blank">Mappa personalizzata con tappe costruita su Google Maps</a>
+    <a href="https://it.wikipedia.org/wiki/Lago_di_Tovel" target="_blank">Lago Tovel</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://www.iltrentinodeibambini.it" target="_blank">http://www.iltrentinodeibambini.it</a>
+    <a href="https://www.google.com/maps/d/u/1/edit?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0&ll=46.04223529100524%2C11.031806791015697&z=9" target="_blank">Mappa personalizzata con tappe costruita su Google Maps</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago" target="_blank">http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago</a>
+    <a href="http://www.iltrentinodeibambini.it" target="_blank">http://www.iltrentinodeibambini.it</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://estatefamily.it/" target="_blank">https://estatefamily.it/</a>
+    <a href="http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago" target="_blank">http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio" target="_blank">https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio</a>
+    <a href="https://estatefamily.it/" target="_blank">https://estatefamily.it/</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
+    <a href="https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio" target="_blank">https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://www.cortinadolomiti.eu/IT/noleggio-snow-service1" target="_blank">http://www.cortinadolomiti.eu/IT/noleggio-snow-service1</a>
+    <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
 
 .. |LINK14| raw:: html
+
+    <a href="http://www.cortinadolomiti.eu/IT/noleggio-snow-service1" target="_blank">http://www.cortinadolomiti.eu/IT/noleggio-snow-service1</a>
+
+.. |LINK15| raw:: html
 
     <a href="https://www.snowservice.it/estate/" target="_blank">https://www.snowservice.it/estate/</a>
 
