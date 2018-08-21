@@ -34,7 +34,7 @@ Itinerario seguito a lug-ago 2018 da Ciro, Antonio  & families
 
 * Albergo Malga Ciapela - \ |LINK10|\   (trekking medio con forti salite all'andata)
 
-* Valle Ansiei (\ |LINK11|\  casa colonica)
+* Valle Ansiei (\ |LINK11|\  casa colonica, base dei pernottamenti, struttura altamente specializzata per persone con disabilità)
 
 * \ |LINK12|\ 
 
@@ -50,15 +50,12 @@ Itinerario seguito a lug-ago 2018 da Ciro, Antonio  & families
 
 |
 
-.. _h5d67431d1854a6719455c77372d7f61:
+.. _h413233a6a34415b4c236492a442446:
 
-Escursioni possibili nei dintorni di Trento e Auronzo di Cadore
-***************************************************************
+Escursioni possibili nei dintorni di Trento e di Auronzo di Cadore
+******************************************************************
 
-[Grazie a Francesca Gleria e Maurizio Napolitano per alcuni suggerimenti]
-
-\ |LINK18|\ 
-
+Grazie a Francesca Gleria e Maurizio Napolitano per alcuni suggerimenti. \ |LINK18|\ 
 
 |REPLACE1|
 
@@ -86,7 +83,7 @@ Lo zaino porta bimbi
 
 * \ |LINK23|\  
 
-* \ |LINK24|\  affitto zaino
+* \ |LINK24|\  (affitto zaino)
 
 |
 
@@ -182,7 +179,7 @@ Lo zaino porta bimbi
 
 .. |LINK18| raw:: html
 
-    <a href="https://www.google.com/maps/d/u/1/edit?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0&ll=46.04223529100524%2C11.031806791015697&z=9" target="_blank">Mappa personalizzata con tappe costruita su Google Maps</a>
+    <a href="https://www.google.com/maps/d/u/1/edit?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0&ll=46.04223529100524%2C11.031806791015697&z=9" target="_blank">Mappa personalizzata con tappe, costruita su Google Maps</a>
 
 .. |LINK19| raw:: html
 
