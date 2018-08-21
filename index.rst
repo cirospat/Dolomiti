@@ -5,10 +5,10 @@
 
     index
 
-.. _h2442805c79b197a1557246e1941e54:
+.. _h4c188132d7960a19306bc4d361231:
 
-Minchia le Dolomiti! (\ |LINK1|\  & powered by \ |LINK2|\ )
-###########################################################
+Minchia le Dolomiti! \ |LINK1|\  & powered by \ |LINK2|\ 
+#########################################################
 
 
 ..  Note:: 
@@ -117,7 +117,7 @@ Come scegliere lo zaino porta bambini
 
 .. |LINK1| raw:: html
 
-    <a href="https://twitter.com/search?f=tweets&q=%23minchialedolomiti" target="_blank">cit. Andrea Borruso</a>
+    <a href="https://twitter.com/search?f=tweets&q=%23minchialedolomiti" target="_blank">Cit. Andrea Borruso</a>
 
 .. |LINK2| raw:: html
 
