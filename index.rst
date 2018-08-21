@@ -1,7 +1,7 @@
 
 .. toctree:: 
     :maxdepth: 3
-    :caption: Indice 
+    :caption: contenuti 
 
     index
 
