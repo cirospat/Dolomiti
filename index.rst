@@ -1,10 +1,4 @@
 
-.. toctree:: 
-    :maxdepth: 2
-    :caption: contenuti 
-
-    index
-
 .. _h636a35023286e551161312a6f284231:
 
 Minchia... le Dolomiti! 
@@ -13,6 +7,13 @@ Minchia... le Dolomiti!
 \ |LINK1|\  & powered by \ |LINK2|\ . Uno dei territori più incantevoli d'Italia.
 
 \ |IMG1|\ 
+
+
+.. toctree:: 
+    :maxdepth: 2
+    :caption: contenuti 
+
+    index
 
 .. _h2644201e575623d2f271f4f2d69716e:
 
