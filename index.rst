@@ -4,7 +4,7 @@
 Minchia... le Dolomiti! 
 ########################
 
-\ |LINK1|\  & powered by \ |LINK2|\ . Uno dei territori più incantevoli d'Italia per montagne, valli, fiumi e laghi. Un viaggio che prende ispirazione dalla mappa cartacea \ |LINK3|\  delle Dolomiti, avuta nel giugno 2016 all'incontro \ |LINK4|\ , e da un mantra di Andrea "\ |STYLE0|\ " per l'ammirazione verso questi luoghi.
+\ |LINK1|\  & powered by \ |LINK2|\ . Uno dei territori più incantevoli d'Italia per montagne, valli, fiumi e laghi. Un viaggio che prende ispirazione dalla mappa cartacea \ |LINK3|\  delle Dolomiti, ricevuta nel giugno 2016 all'incontro \ |LINK4|\ , e dal mantra di Andrea "\ |STYLE0|\ " per l'ammirazione verso questi luoghi.
 
 \ |IMG1|\ 
 
@@ -123,7 +123,7 @@ Lo zaino porta bimbi
 
 .. |LINK4| raw:: html
 
-    <a href="http://www.portobeseno.it/blog/?p=7340" target="_blank">"mappe e beni collettivi (digitali)" di Portobeseno</a>
+    <a href="http://www.portobeseno.it/blog/?p=7340" target="_blank">"mappe e beni collettivi (digitali)", di Portobeseno</a>
 
 .. |LINK5| raw:: html
 
