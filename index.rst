@@ -10,7 +10,7 @@
 Minchia... le Dolomiti! 
 ########################
 
-\ |LINK1|\  & powered by \ |LINK2|\ 
+\ |LINK1|\  & powered by \ |LINK2|\ . 
 
 Tributo ad uno dei luoghi naturali più incantevoli d'Italia.
 
