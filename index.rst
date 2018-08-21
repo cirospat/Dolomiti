@@ -10,7 +10,7 @@
 Minchia le Dolomiti! (cit. Andrea Borruso)
 ##########################################
 
-[I contenuti di questa pagina Google Doc vengono esposti automaticamente sul link \ |LINK1|\  comodamente consultabile su smartphone, utile in viaggio]
+[I contenuti di questa pagina sono editati su Google Doc e vengono esposti automaticamente sul link \ |LINK1|\ , comodamente consultabile su smartphone, e utile in viaggio]
 
 \ |IMG1|\ 
 
