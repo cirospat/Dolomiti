@@ -28,29 +28,29 @@ Itinerario seguito nel 2018 da Ciro & family, Antonio & family
 
 Le foto (di \ |LINK4|\ ) degli itinerari sono disponibili in \ |LINK5|\ .
 
-* \ |LINK6|\  (bagni)
+* \ |LINK6|\  (bagni in estate)
 
-* \ |LINK7|\ 
+* \ |LINK7|\  (bagni in estate)
 
-* Fontanazzo (paese per snack)
+* Fontanazzo 
 
 * Lago di Fontanaia (passo più alto della Marmolada percorribile in auto)
 
-* Serrai di Sottoguda (trekking facile su asfalto)
+* Serrai di Sottoguda (escursione facile su asfalto nella gola di una valle)
 
 * Albergo Malga Ciapela - Malga Ombretta  (trekking medio)
 
-* Valle Ansiei (Villa Gregoriana)
+* Valle Ansiei (Villa Gregoriana casa colonica)
 
 * Malga Maraia
 
-* Parco Somadida nella Valle di Ansiei (trekking facile)
+* Parco Somadida nella Valle di Ansiei (trekking facili)
 
 * Tre cime di Lavaredo (trekking lungo, 5-6 ore)
 
-* Lago di Misurina e montagne sopra il lago (trekking lunghi possibili o discesa a piedi dopo la salita in seggiovia)
+* Lago di Misurina e montagne sopra il lago (trekking lunghi possibili e discesa a piedi dopo la salita in seggiovia)
 
-* Lago di Auronzo e montagne sopra il lago (trekking lunghi possibili o discesa a piedi dopo la salita in seggiovia)
+* Lago di Auronzo e montagne sopra il lago (trekking lunghi possibili e discesa a piedi dopo la salita in seggiovia)
 
 * Val Visdende (trekking facili)
 
@@ -99,10 +99,10 @@ Trentino Famiglia appuntamenti sul territorio
 
 |
 
-.. _h666f55657173277b551a796e3d11237e:
+.. _h4c3e2cd45e2e43155a731252a454d:
 
-Come scegliere lo zaino porta bambini
-*************************************
+Scegliere lo zaino porta bambini
+********************************
 
 * \ |LINK13|\  
 
