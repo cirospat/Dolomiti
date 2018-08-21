@@ -5,19 +5,19 @@
 
     index
 
-.. _h4d311a9345a4f785d773c537c53332c:
+.. _h7038777832e1d4e20507d701c3c3f25:
 
-DOLOMITI ESTATE 2018
-####################
+Minchia le Dolomiti! (cit. Andrea Borruso)
+##########################################
 
 [I contenuti di questa pagina Google Doc vengono esposti automaticamente sul link \ |LINK1|\  comodamente consultabile su smartphone, utile in viaggio]
 
 \ |IMG1|\ 
 
-.. _h2e6c521c57567a126c23d8632f6b4:
+.. _h3748103679563174765a185a1a593818:
 
-Itinerario seguito nel 2018
-***************************
+Itinerario seguito nel 2018 (Ciro and family)
+*********************************************
 
 Le foto degli itinerari sono disponibili a \ |LINK2|\ .
 
@@ -49,21 +49,12 @@ Le foto degli itinerari sono disponibili a \ |LINK2|\ .
 
 |
 
-.. _h5e4752f576f72161a2a5d166e4d145d:
+.. _h464e330745f4837474119782ef483a:
 
-Estate Family
-*************
+Escursioni nei dintorni di Trento e Auronzo di Cadore
+*****************************************************
 
-Mappa con eventi di interesse per le famiglie in Trentino: \ |LINK5|\ 
-
-|
-
-.. _h61237a7286464541c38424627173f20:
-
-Escursioni nei dintorni di Trento e Auronzo Cadore
-**************************************************
-
-\ |LINK6|\ 
+\ |LINK5|\ 
 
 
 |REPLACE1|
@@ -75,22 +66,18 @@ Escursioni nei dintorni di Trento e Auronzo Cadore
 Il Trentino dei bambini
 ***********************
 
-\ |LINK7|\  
+\ |LINK6|\  
 
-\ |LINK8|\   (laghi) 
+\ |LINK7|\   (laghi) 
 
 |
 
-.. _h666f55657173277b551a796e3d11237e:
+.. _h5e4752f576f72161a2a5d166e4d145d:
 
-Come scegliere lo zaino porta bambini
-*************************************
+Estate Family
+*************
 
-\ |LINK9|\  
-
-\ |LINK10|\ 
-
-\ |LINK11|\  ho visto nel sito un giorno di affitto zaino costa 11.70 euro.
+Mappa con eventi di interesse per le famiglie in Trentino: \ |LINK8|\ 
 
 |
 
@@ -99,10 +86,22 @@ Come scegliere lo zaino porta bambini
 Trentino Famiglia appuntamenti sul territorio
 *********************************************
 
-\ |LINK12|\  
+\ |LINK9|\  
 
 |
 
+.. _h666f55657173277b551a796e3d11237e:
+
+Come scegliere lo zaino porta bambini
+*************************************
+
+* \ |LINK10|\  
+
+* \ |LINK11|\ 
+
+* \ |LINK12|\  un giorno di affitto zaino costa 11.70 euro.
+
+|
 
 .. bottom of content
 
@@ -129,35 +128,35 @@ Trentino Famiglia appuntamenti sul territorio
 
 .. |LINK5| raw:: html
 
-    <a href="https://estatefamily.it/" target="_blank">https://estatefamily.it/</a>
+    <a href="https://www.google.com/maps/d/u/1/edit?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0&ll=46.04223529100524%2C11.031806791015697&z=9" target="_blank">Mappa personalizzata con tappe costruita su Google Maps</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://www.google.com/maps/d/u/1/edit?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0&ll=46.04223529100524%2C11.031806791015697&z=9" target="_blank">Mappa personalizzata con tappe costruita su Google Maps</a>
+    <a href="http://www.iltrentinodeibambini.it" target="_blank">http://www.iltrentinodeibambini.it</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://www.iltrentinodeibambini.it" target="_blank">http://www.iltrentinodeibambini.it</a>
+    <a href="http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago" target="_blank">http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago" target="_blank">http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago</a>
+    <a href="https://estatefamily.it/" target="_blank">https://estatefamily.it/</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
+    <a href="https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio" target="_blank">https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://www.cortinadolomiti.eu/IT/noleggio-snow-service1" target="_blank">http://www.cortinadolomiti.eu/IT/noleggio-snow-service1</a>
+    <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://www.snowservice.it/estate/" target="_blank">https://www.snowservice.it/estate/</a>
+    <a href="http://www.cortinadolomiti.eu/IT/noleggio-snow-service1" target="_blank">http://www.cortinadolomiti.eu/IT/noleggio-snow-service1</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio" target="_blank">https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio</a>
+    <a href="https://www.snowservice.it/estate/" target="_blank">https://www.snowservice.it/estate/</a>
 
 
 .. |IMG1| image:: static/Dolomiti-index_1.png
