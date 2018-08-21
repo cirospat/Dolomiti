@@ -68,22 +68,15 @@ Il Trentino dei bambini e delle famiglie
 
 * \ |LINK22|\  
 
-* \ |LINK23|\   (laghi) 
+* \ |LINK23|\   (\ |STYLE4|\ ) 
 
-* \ |LINK24|\  (mappa con eventi di interesse per le famiglie in Trentino)
+* \ |LINK24|\  (\ |STYLE5|\ )
 
-* \ |LINK25|\  (appuntamenti sul territorio)
+* \ |LINK25|\  (\ |STYLE6|\ )
 
-|
+* \ |LINK26|\  (\ |STYLE7|\ )
 
-.. _h394b229397045b7c7973f28107079:
-
-Lo zaino porta bimbi
-********************
-
-* \ |LINK26|\  
-
-* \ |LINK27|\  (affitto zaino)
+* \ |LINK27|\  (\ |STYLE8|\ )
 
 |
 
@@ -100,9 +93,19 @@ Lo zaino porta bimbi
 
 .. |STYLE1| replace:: **Le foto (di**
 
-.. |STYLE2| replace:: **) degli itinerari sono disponibili in**
+.. |STYLE2| replace:: **) dei luoghi visitati durante gli itinerari sono disponibili in**
 
 .. |STYLE3| replace:: **.**
+
+.. |STYLE4| replace:: **laghi**
+
+.. |STYLE5| replace:: **mappa con eventi di interesse per le famiglie in Trentino**
+
+.. |STYLE6| replace:: **appuntamenti sul territorio**
+
+.. |STYLE7| replace:: **zaino porta bimbi**
+
+.. |STYLE8| replace:: **affitto zaino porta bimbi**
 
 
 .. |REPLACE1| raw:: html
