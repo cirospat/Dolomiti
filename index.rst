@@ -10,7 +10,7 @@
 Minchia... le Dolomiti! 
 ########################
 
-\ |LINK1|\  & powered by \ |LINK2|\ . Tributo ad uno dei luoghi naturali più incantevoli d'Italia.
+\ |LINK1|\  & powered by \ |LINK2|\ . Uno dei luoghi naturali più incantevoli d'Italia.
 
 ..  Note:: 
 
@@ -18,10 +18,10 @@ Minchia... le Dolomiti!
 
 \ |IMG1|\ 
 
-.. _h2c4167674d7c4a407f24f1a1b762b1f:
+.. _h2644201e575623d2f271f4f2d69716e:
 
-Itinerario seguito nel 2018 da Ciro & family, Antonio & family
-**************************************************************
+Itinerario seguito a lug-ago 2018 da Ciro & family, Antonio & family
+********************************************************************
 
 Le foto (di \ |LINK4|\ ) degli itinerari sono disponibili in \ |LINK5|\ .
 
@@ -58,7 +58,7 @@ Le foto (di \ |LINK4|\ ) degli itinerari sono disponibili in \ |LINK5|\ .
 Escursioni possibili nei dintorni di Trento e Auronzo di Cadore
 ***************************************************************
 
-(grazie a Francesca Gleria e Maurizio Napolitano per i suggerimenti)
+(Grazie a Francesca Gleria e Maurizio Napolitano per alcuni suggerimenti)
 
 \ |LINK8|\ 
 
@@ -67,45 +67,29 @@ Escursioni possibili nei dintorni di Trento e Auronzo di Cadore
 
 |
 
-.. _h2bf7f196c5f297a6b18506a3a755210:
+.. _h4f5842425422497ae193155e5d56:
 
-Il Trentino dei bambini
-***********************
+Il Trentino dei bambini e delle famiglie
+****************************************
 
-\ |LINK9|\  
+* \ |LINK9|\  
 
-\ |LINK10|\   (laghi) 
+* \ |LINK10|\   (laghi) 
 
-|
+* \ |LINK11|\  (mappa con eventi di interesse per le famiglie in Trentino)
 
-.. _h5e4752f576f72161a2a5d166e4d145d:
-
-Estate Family
-*************
-
-Mappa con eventi di interesse per le famiglie in Trentino: \ |LINK11|\ 
+* \ |LINK12|\  (appuntamenti sul territorio)
 
 |
 
-.. _h6a687b3768134322d3f47805b5e5e4f:
+.. _h394b229397045b7c7973f28107079:
 
-Trentino Famiglia appuntamenti sul territorio
-*********************************************
-
-\ |LINK12|\  
-
-|
-
-.. _h4c3e2cd45e2e43155a731252a454d:
-
-Scegliere lo zaino porta bambini
-********************************
+Lo zaino porta bimbi
+********************
 
 * \ |LINK13|\  
 
-* \ |LINK14|\ 
-
-* \ |LINK15|\  un giorno di affitto zaino costa 11.70 euro.
+* \ |LINK14|\  affitto zaino
 
 |
 
@@ -158,7 +142,7 @@ Scegliere lo zaino porta bambini
 
 .. |LINK11| raw:: html
 
-    <a href="https://estatefamily.it/" target="_blank">https://estatefamily.it/</a>
+    <a href="https://estatefamily.it/" target="_blank">https://estatefamily.it</a>
 
 .. |LINK12| raw:: html
 
@@ -169,10 +153,6 @@ Scegliere lo zaino porta bambini
     <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
 
 .. |LINK14| raw:: html
-
-    <a href="http://www.cortinadolomiti.eu/IT/noleggio-snow-service1" target="_blank">http://www.cortinadolomiti.eu/IT/noleggio-snow-service1</a>
-
-.. |LINK15| raw:: html
 
     <a href="https://www.snowservice.it/estate/" target="_blank">https://www.snowservice.it/estate/</a>
 
