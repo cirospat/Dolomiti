@@ -114,7 +114,7 @@ Come scegliere lo zaino porta bambini
 
 .. |REPLACE1| raw:: html
 
-    <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0" width="640" height="480"></iframe>
+    <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1P6jmsZXotve0fjtP98fpE_jsokZuaCD0" width="740" height="580"></iframe>
 
 .. |LINK1| raw:: html
 
