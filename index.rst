@@ -55,13 +55,17 @@ Itinerario seguito a lug-ago 2018 da Ciro, Antonio  & families
 L'abilità delle Dolomiti
 ************************
 
-La struttura di \ |LINK20|\ , sulla Valle di Ansiei (lat. 46.532798, long. 12.290340), è dotata di strumenti atti ad ospitare persone con disabilità fisiche e psichiche. Sono disponibili anche carrozzelle particolari per far fruire pienamente i sentieri montani. 
+La struttura di \ |LINK20|\ , sulla Valle di Ansiei (lat. 46.532798, long. 12.290340) a 11 km da Auronzo di Cadore e di fronte il Parco di Somadida, è dotata di strumenti atti ad ospitare persone con disabilità fisiche e psichiche. Sono disponibili anche carrozzelle particolari per far fruire pienamente i sentieri montani. 
 
 \ |IMG2|\    
 
-\ |IMG3|\  \ |STYLE4|\ . 
+\ |IMG3|\  
 
-Questa struttura rende un angolo delle Dolomiti fruibile e godibile da tante persone con difficoltà motorie anche grazie alla valida rete di volontari che si dedicano con passione a questa attività di supporto e aiuto ai disabili. Il popolo delle Dolomiti è un esempio di elevata civiltà e solidarietà.
+\ |STYLE4|\ . 
+
+Questa struttura rende un angolo delle Dolomiti fruibile e godibile da tante persone con difficoltà motorie anche grazie alla valida rete di volontari che si dedicano con passione all'attività di supporto e aiuto ai disabili. 
+
+Il popolo delle Dolomiti è un esempio di elevata civiltà e solidarietà.
 
 |
 
@@ -76,22 +80,22 @@ Grazie a Francesca Gleria e Maurizio Napolitano per alcuni suggerimenti. \ |LINK
 
 |
 
-.. _h4f5842425422497ae193155e5d56:
+.. _h55471173581c643361296752c72315f:
 
-Il Trentino dei bambini e delle famiglie
-****************************************
+Il Trentino dei bambini, delle famiglie e della montagna
+********************************************************
 
-* \ |LINK22|\  
+* \ |LINK22|\  (\ |STYLE5|\ )
 
-* \ |LINK23|\   (\ |STYLE5|\ ) 
+* \ |LINK23|\   (\ |STYLE6|\ ) 
 
-* \ |LINK24|\  (\ |STYLE6|\ )
+* \ |LINK24|\  (\ |STYLE7|\ )
 
-* \ |LINK25|\  (\ |STYLE7|\ )
+* \ |LINK25|\  (\ |STYLE8|\ )
 
-* \ |LINK26|\  (\ |STYLE8|\ )
+* \ |LINK26|\  (\ |STYLE9|\ )
 
-* \ |LINK27|\  (\ |STYLE9|\ )
+* \ |LINK27|\  (\ |STYLE10|\ )
 
 |
 
@@ -112,17 +116,19 @@ Il Trentino dei bambini e delle famiglie
 
 .. |STYLE3| replace:: **.**
 
-.. |STYLE4| replace:: *Foto a cura della struttura di Villa Gregoriana*
+.. |STYLE4| replace:: *Foto a cura del personale della struttura di Villa Gregoriana*
 
-.. |STYLE5| replace:: **laghi**
+.. |STYLE5| replace:: **eventi per bambini**
 
-.. |STYLE6| replace:: **mappa con eventi di interesse per le famiglie in Trentino**
+.. |STYLE6| replace:: **laghi**
 
-.. |STYLE7| replace:: **appuntamenti sul territorio**
+.. |STYLE7| replace:: **mappa con eventi di interesse per le famiglie in Trentino**
 
-.. |STYLE8| replace:: **zaino porta bimbi**
+.. |STYLE8| replace:: **appuntamenti sul territorio**
 
-.. |STYLE9| replace:: **affitto zaino porta bimbi**
+.. |STYLE9| replace:: **zaino porta bimbi**
+
+.. |STYLE10| replace:: **affitto zaino porta bimbi**
 
 
 .. |REPLACE1| raw:: html
@@ -215,27 +221,27 @@ Il Trentino dei bambini e delle famiglie
 
 .. |LINK22| raw:: html
 
-    <a href="http://www.iltrentinodeibambini.it" target="_blank">http://www.iltrentinodeibambini.it</a>
+    <a href="http://www.iltrentinodeibambini.it" target="_blank">iltrentinodeibambini.it</a>
 
 .. |LINK23| raw:: html
 
-    <a href="http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago" target="_blank">http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago</a>
+    <a href="http://www.iltrentinodeibambini.it/category/allaria-aperta/al-lago" target="_blank">iltrentinodeibambini.it/category/allaria-aperta/al-lago</a>
 
 .. |LINK24| raw:: html
 
-    <a href="https://estatefamily.it/" target="_blank">https://estatefamily.it</a>
+    <a href="https://estatefamily.it/" target="_blank">estatefamily.it</a>
 
 .. |LINK25| raw:: html
 
-    <a href="https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio" target="_blank">https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio</a>
+    <a href="https://www.trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio" target="_blank">trentinofamiglia.it/News-eventi/Appuntamenti-sul-territorio</a>
 
 .. |LINK26| raw:: html
 
-    <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
+    <a href="https://iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html" target="_blank">iviaggideirospi.com/2016/09/come-scegliere-lo-zaino-porta-bimbo-consigli.html</a>
 
 .. |LINK27| raw:: html
 
-    <a href="https://www.snowservice.it/estate/" target="_blank">https://www.snowservice.it/estate/</a>
+    <a href="https://www.snowservice.it/estate/" target="_blank">snowservice.it/estate/</a>
 
 .. |LINK28| raw:: html
 
