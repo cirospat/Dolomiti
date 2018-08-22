@@ -4,7 +4,7 @@
 Minchia... le Dolomiti! 
 ########################
 
-\ |LINK1|\  & powered by \ |LINK2|\ . Uno dei territori più incantevoli d'Italia per montagne, valli, fiumi e laghi. Un viaggio che prende ispirazione dalla mappa cartacea \ |LINK3|\  delle Dolomiti, ricevuta nel giugno 2016 all'incontro \ |LINK4|\ , e dal mantra di Andrea "\ |STYLE0|\ " per l'ammirazione verso questi luoghi.
+\ |LINK1|\  & powered by \ |LINK2|\ . Uno dei territori più incantevoli d'Italia per montagne, valli, fiumi e laghi. Un viaggio che prende ispirazione dalla mappa cartacea \ |LINK3|\  delle Dolomiti\ [#F1]_\ , ricevuta nel giugno 2016 all'incontro \ |LINK4|\ , e dal mantra di Andrea "\ |STYLE0|\ " per l'ammirazione verso questi luoghi.
 
 \ |IMG1|\ 
 
@@ -228,6 +228,11 @@ Il Trentino dei bambini e delle famiglie
 
     <a href="https://minchia-le-dolomiti.readthedocs.io" target="_blank">minchia-le-dolomiti.readthedocs.io</a>
 
+
+
+.. rubric:: Footnotes
+
+.. [#f1]  Mappa Panoramica delle Dolomiti, di Marco Barbieri. La mappa è stata realizzata utilizzando open-data geografici di varia provenienza, prodotti dal progetto OpenStreetMap e dalle pubbliche amministrazioni. Per la rappresentazione cartografica è stata utilizzata una particolare proiezione geografica, la proiezione ortografica obliqua. Il risultato è una vista simil panoramica, particolarmente realistica di tutti i gruppi dolomitici. La Mappa Panoramica delle Dolomiti è stata finanziata attraverso una campagna di crowd-funding.
 
 .. |IMG1| image:: static/Dolomiti-index_1.png
    :height: 281 px
