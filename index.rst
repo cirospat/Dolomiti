@@ -15,9 +15,9 @@ Minchia... le Dolomiti!
 
     index
 
-.. _h726d306f2568651c95a3776f54d65:
+.. _h1825d491c1878733c11b6377302311:
 
-Itinerario seguito a lug-ago 2018 da Ciro, Antonio  & families
+Itinerario seguito ad agosto 2018 da Ciro, Antonio  & families
 **************************************************************
 
 \ |STYLE1|\  \ |LINK5|\ \ |STYLE2|\  \ |LINK6|\ \ |STYLE3|\ 
@@ -65,14 +65,12 @@ La struttura di \ |LINK20|\ , sulla Valle di Ansiei (lat. 46.532798, long. 12.29
 
 Questa struttura rende un angolo delle Dolomiti fruibile e godibile da tante persone con difficoltà motorie anche grazie alla valida rete di volontari che si dedicano con passione all'attività di supporto e aiuto ai disabili. 
 
-Il popolo delle Dolomiti è un esempio di elevata civiltà e solidarietà.
-
 |
 
-.. _h413233a6a34415b4c236492a442446:
+.. _h2235566a556712811540332541365d:
 
-Escursioni possibili nei dintorni di Trento e di Auronzo di Cadore
-******************************************************************
+Escursioni possibili nei dintorni di Trento
+*******************************************
 
 Grazie a Francesca Gleria e Maurizio Napolitano per alcuni suggerimenti. \ |LINK21|\ 
 
@@ -95,7 +93,7 @@ Il Trentino dei bambini, delle famiglie e della montagna
 
 * \ |LINK26|\  (\ |STYLE9|\ )
 
-* \ |LINK27|\   (\ |STYLE10|\  \ |STYLE11|\ )
+* \ |LINK27|\   (\ |STYLE10|\ )
 
 |
 
@@ -128,9 +126,7 @@ Il Trentino dei bambini, delle famiglie e della montagna
 
 .. |STYLE9| replace:: **zaino porta bimbi**
 
-.. |STYLE10| replace:: **a Cortina**
-
-.. |STYLE11| replace:: **affitto zaino porta-bimbi, passeggino trekking**
+.. |STYLE10| replace:: **a Cortina - Veneto - affitto zaino porta-bimbi, passeggino trekking**
 
 
 .. |REPLACE1| raw:: html
