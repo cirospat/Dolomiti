@@ -258,8 +258,8 @@ Il Trentino dei bambini, delle famiglie e della montagna
 .. [#f1]  Mappa Panoramica delle Dolomiti, di Marco Barbieri. La mappa è stata realizzata utilizzando open-data geografici di varia provenienza, prodotti dal progetto OpenStreetMap e dalle pubbliche amministrazioni. Per la rappresentazione cartografica è stata utilizzata una particolare proiezione geografica, la proiezione ortografica obliqua. Il risultato è una vista simil panoramica, particolarmente realistica di tutti i gruppi dolomitici. La Mappa Panoramica delle Dolomiti è stata finanziata attraverso una campagna di crowd-funding.
 
 .. |IMG1| image:: static/Dolomiti-index_1.png
-   :height: 281 px
-   :width: 601 px
+   :height: 202 px
+   :width: 434 px
 
 .. |IMG2| image:: static/Dolomiti-index_2.png
    :height: 157 px
