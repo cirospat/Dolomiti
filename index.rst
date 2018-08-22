@@ -34,19 +34,33 @@ Itinerario seguito a lug-ago 2018 da Ciro, Antonio  & families
 
 * Albergo Malga Ciapela - \ |LINK12|\   (trekking medio con forti salite all'andata)
 
-* Valle Ansiei (\ |LINK13|\  casa colonica, base dei pernottamenti, \ |LINK14|\ )
+* Valle Ansiei (\ |LINK13|\  casa colonica, base dei pernottamenti, struttura altamente specializzata per persone con disabilità)
 
-* \ |LINK15|\ 
+* \ |LINK14|\ 
 
-* \ |LINK16|\  nella Valle di Ansiei (trekking facili per famiglie con bambini)
+* \ |LINK15|\  nella Valle di Ansiei (trekking facili per famiglie con bambini)
 
-* \ |LINK17|\  (trekking lungo per famiglie con bambini, 5-6 ore)
+* \ |LINK16|\  (trekking lungo per famiglie con bambini, 5-6 ore)
+
+* \ |LINK17|\  e montagne sopra il lago (trekking lunghi possibili e discesa a piedi dopo la salita in seggiovia)
 
 * \ |LINK18|\  e montagne sopra il lago (trekking lunghi possibili e discesa a piedi dopo la salita in seggiovia)
 
-* \ |LINK19|\  e montagne sopra il lago (trekking lunghi possibili e discesa a piedi dopo la salita in seggiovia)
+* \ |LINK19|\  (trekking facili per famiglie con bambini)
 
-* \ |LINK20|\  (trekking facili per famiglie con bambini)
+|
+
+.. _h761e1a5c35378502048d62350c1c:
+
+L'abilità delle Dolomiti
+************************
+
+La struttura di \ |LINK20|\ , sulla Valle di Ansiei (lat. 46.532798, long. 12.290340), è dotata di strumenti atti ad ospitare persone con disabilità fisiche e psichiche. Sono disponibili anche carrozzelle particolari per far fruire pienamente i sentieri montani. 
+
+\ |IMG2|\ \ |IMG3|\ 
+ 
+
+\ |STYLE4|\ . Questa struttura rende un angolo delle Dolomiti fruibile e godibile da tante persone con difficoltà motorie anche grazie alla valida rete di volontari che si dedicano con passione a questa attività di supporto e aiuto ai disabili. Il popolo delle Dolomiti è un esempio di elevata civiltà e solidarietà.
 
 |
 
@@ -68,15 +82,15 @@ Il Trentino dei bambini e delle famiglie
 
 * \ |LINK22|\  
 
-* \ |LINK23|\   (\ |STYLE4|\ ) 
+* \ |LINK23|\   (\ |STYLE5|\ ) 
 
-* \ |LINK24|\  (\ |STYLE5|\ )
+* \ |LINK24|\  (\ |STYLE6|\ )
 
-* \ |LINK25|\  (\ |STYLE6|\ )
+* \ |LINK25|\  (\ |STYLE7|\ )
 
-* \ |LINK26|\  (\ |STYLE7|\ )
+* \ |LINK26|\  (\ |STYLE8|\ )
 
-* \ |LINK27|\  (\ |STYLE8|\ )
+* \ |LINK27|\  (\ |STYLE9|\ )
 
 |
 
@@ -97,15 +111,17 @@ Il Trentino dei bambini e delle famiglie
 
 .. |STYLE3| replace:: **.**
 
-.. |STYLE4| replace:: **laghi**
+.. |STYLE4| replace:: *Foto a cura della struttura di Villa Gregoriana*
 
-.. |STYLE5| replace:: **mappa con eventi di interesse per le famiglie in Trentino**
+.. |STYLE5| replace:: **laghi**
 
-.. |STYLE6| replace:: **appuntamenti sul territorio**
+.. |STYLE6| replace:: **mappa con eventi di interesse per le famiglie in Trentino**
 
-.. |STYLE7| replace:: **zaino porta bimbi**
+.. |STYLE7| replace:: **appuntamenti sul territorio**
 
-.. |STYLE8| replace:: **affitto zaino porta bimbi**
+.. |STYLE8| replace:: **zaino porta bimbi**
+
+.. |STYLE9| replace:: **affitto zaino porta bimbi**
 
 
 .. |REPLACE1| raw:: html
@@ -166,31 +182,31 @@ Il Trentino dei bambini e delle famiglie
 
 .. |LINK14| raw:: html
 
-    <a href="http://www.accoglienza.diocesi.it/strutture/villa-gregoriana/home" target="_blank">struttura altamente specializzata per persone con disabilità</a>
+    <a href="https://www.google.it/maps/place/Malga+Maraia/@46.557728,12.2704087,5836m/data=!3m1!1e3!4m5!3m4!1s0x4779cb61258ee163:0xbccedd3305c93190!8m2!3d46.550747!4d12.2855667" target="_blank">Malga Maraia</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://www.google.it/maps/place/Malga+Maraia/@46.557728,12.2704087,5836m/data=!3m1!1e3!4m5!3m4!1s0x4779cb61258ee163:0xbccedd3305c93190!8m2!3d46.550747!4d12.2855667" target="_blank">Malga Maraia</a>
+    <a href="https://www.google.it/maps/place/Parco+Naturale+Somadida/@46.533469,12.2482712,5198m/data=!3m1!1e3!4m5!3m4!1s0x4779cb0bd47df807:0x36510ab659a8164f!8m2!3d46.5301389!4d12.2645144" target="_blank">Parco Somadida</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://www.google.it/maps/place/Parco+Naturale+Somadida/@46.533469,12.2482712,5198m/data=!3m1!1e3!4m5!3m4!1s0x4779cb0bd47df807:0x36510ab659a8164f!8m2!3d46.5301389!4d12.2645144" target="_blank">Parco Somadida</a>
+    <a href="https://www.google.it/maps/place/Tre+Cime+di+Lavaredo/@46.6192094,12.2908286,2476m/data=!3m1!1e3!4m5!3m4!1s0x477832ab852dd7bf:0x1c6dd1d90b67e9e!8m2!3d46.6186777!4d12.3027679" target="_blank">Tre cime di Lavaredo</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://www.google.it/maps/place/Tre+Cime+di+Lavaredo/@46.6192094,12.2908286,2476m/data=!3m1!1e3!4m5!3m4!1s0x477832ab852dd7bf:0x1c6dd1d90b67e9e!8m2!3d46.6186777!4d12.3027679" target="_blank">Tre cime di Lavaredo</a>
+    <a href="https://www.google.it/maps/place/Lago+di+Misurina/@46.5825624,12.2505231,1697m/data=!3m1!1e3!4m5!3m4!1s0x4779ccc5ace48d17:0xbdeb91ec0d7d90f9!8m2!3d46.5825777!4d12.254444" target="_blank">Lago di Misurina</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://www.google.it/maps/place/Lago+di+Misurina/@46.5825624,12.2505231,1697m/data=!3m1!1e3!4m5!3m4!1s0x4779ccc5ace48d17:0xbdeb91ec0d7d90f9!8m2!3d46.5825777!4d12.254444" target="_blank">Lago di Misurina</a>
+    <a href="https://www.google.it/maps/place/Lago+di+Auronzo/@46.5414899,12.4324468,6791m/data=!3m1!1e3!4m5!3m4!1s0x4779c5e876ad7fd9:0xbb8924cd7763adc1!8m2!3d46.543986!4d12.450793" target="_blank">Lago di Auronzo</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://www.google.it/maps/place/Lago+di+Auronzo/@46.5414899,12.4324468,6791m/data=!3m1!1e3!4m5!3m4!1s0x4779c5e876ad7fd9:0xbb8924cd7763adc1!8m2!3d46.543986!4d12.450793" target="_blank">Lago di Auronzo</a>
+    <a href="https://www.google.it/maps/place/Val+Visdende/@46.626186,12.6032558,5949m/data=!3m1!1e3!4m5!3m4!1s0x4779dd10631807d9:0x8d44fc47f3e3e80a!8m2!3d46.6195641!4d12.6286142" target="_blank">Val Visdende</a>
 
 .. |LINK20| raw:: html
 
-    <a href="https://www.google.it/maps/place/Val+Visdende/@46.626186,12.6032558,5949m/data=!3m1!1e3!4m5!3m4!1s0x4779dd10631807d9:0x8d44fc47f3e3e80a!8m2!3d46.6195641!4d12.6286142" target="_blank">Val Visdende</a>
+    <a href="http://www.accoglienza.diocesi.it/strutture/villa-gregoriana/home" target="_blank">Villa Gregoriana</a>
 
 .. |LINK21| raw:: html
 
@@ -237,3 +253,11 @@ Il Trentino dei bambini e delle famiglie
 .. |IMG1| image:: static/Dolomiti-index_1.png
    :height: 281 px
    :width: 601 px
+
+.. |IMG2| image:: static/Dolomiti-index_2.png
+   :height: 141 px
+   :width: 285 px
+
+.. |IMG3| image:: static/Dolomiti-index_3.png
+   :height: 141 px
+   :width: 277 px
