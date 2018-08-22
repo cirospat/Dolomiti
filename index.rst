@@ -59,7 +59,9 @@ La struttura di \ |LINK20|\ , sulla Valle di Ansiei (lat. 46.532798, long. 12.29
 
 \ |IMG2|\    
 
-\ |STYLE4|\ . Questa struttura rende un angolo delle Dolomiti fruibile e godibile da tante persone con difficoltà motorie anche grazie alla valida rete di volontari che si dedicano con passione a questa attività di supporto e aiuto ai disabili. Il popolo delle Dolomiti è un esempio di elevata civiltà e solidarietà.
+\ |IMG3|\  \ |STYLE4|\ . 
+
+Questa struttura rende un angolo delle Dolomiti fruibile e godibile da tante persone con difficoltà motorie anche grazie alla valida rete di volontari che si dedicano con passione a questa attività di supporto e aiuto ai disabili. Il popolo delle Dolomiti è un esempio di elevata civiltà e solidarietà.
 
 |
 
@@ -254,9 +256,9 @@ Il Trentino dei bambini e delle famiglie
    :width: 601 px
 
 .. |IMG2| image:: static/Dolomiti-index_2.png
-   :height: 141 px
-   :width: 285 px
+   :height: 157 px
+   :width: 316 px
 
 .. |IMG3| image:: static/Dolomiti-index_3.png
-   :height: 141 px
-   :width: 277 px
+   :height: 161 px
+   :width: 317 px
