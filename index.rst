@@ -95,7 +95,7 @@ Il Trentino dei bambini, delle famiglie e della montagna
 
 * \ |LINK26|\  (\ |STYLE9|\ )
 
-* \ |LINK27|\  (\ |STYLE10|\ )
+* \ |LINK27|\   (\ |STYLE10|\  \ |STYLE11|\ )
 
 |
 
@@ -128,7 +128,9 @@ Il Trentino dei bambini, delle famiglie e della montagna
 
 .. |STYLE9| replace:: **zaino porta bimbi**
 
-.. |STYLE10| replace:: **affitto zaino porta bimbi**
+.. |STYLE10| replace:: **a Cortina**
+
+.. |STYLE11| replace:: **affitto zaino porta-bimbi, passeggino trekking**
 
 
 .. |REPLACE1| raw:: html
@@ -241,7 +243,7 @@ Il Trentino dei bambini, delle famiglie e della montagna
 
 .. |LINK27| raw:: html
 
-    <a href="https://www.snowservice.it/estate/" target="_blank">snowservice.it/estate/</a>
+    <a href="https://www.snowservice.it/estate/booking" target="_blank">snowservice.it/estate/booking</a>
 
 .. |LINK28| raw:: html
 
