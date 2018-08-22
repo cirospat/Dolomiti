@@ -57,7 +57,7 @@ L'abilità delle Dolomiti
 
 La struttura di \ |LINK20|\ , sulla Valle di Ansiei (lat. 46.532798, long. 12.290340), è dotata di strumenti atti ad ospitare persone con disabilità fisiche e psichiche. Sono disponibili anche carrozzelle particolari per far fruire pienamente i sentieri montani. 
 
-\ |IMG2|\   
+\ |IMG2|\    
 
 \ |STYLE4|\ . Questa struttura rende un angolo delle Dolomiti fruibile e godibile da tante persone con difficoltà motorie anche grazie alla valida rete di volontari che si dedicano con passione a questa attività di supporto e aiuto ai disabili. Il popolo delle Dolomiti è un esempio di elevata civiltà e solidarietà.
 
