@@ -97,12 +97,14 @@ Il Trentino dei bambini, delle famiglie e della montagna
 
 * \ |LINK27|\   (\ |STYLE10|\ )
 
+* \ |LINK28|\  (\ |STYLE11|\ )
+
 |
 
 
 ..  Note:: 
 
-    I contenuti di questa pagina sono editati su Google Doc e tramite il plugin GGeditor (tutorial = \ |LINK28|\ ) vengono esposti automaticamente su \ |LINK29|\ , comodamente consultabile su smartphone, molto utile in viaggio.
+    I contenuti di questa pagina sono editati su Google Doc e tramite il plugin GGeditor (tutorial = \ |LINK29|\ ) vengono esposti automaticamente su \ |LINK30|\ , comodamente consultabile su smartphone, molto utile in viaggio.
 
 
 .. bottom of content
@@ -129,6 +131,8 @@ Il Trentino dei bambini, delle famiglie e della montagna
 .. |STYLE9| replace:: **zaino porta bimbi**
 
 .. |STYLE10| replace:: **a Cortina - Veneto - affitto zaino porta-bimbi, passeggino trekking**
+
+.. |STYLE11| replace:: **in montagna sulle Dolomiti con zaino e passeggino**
 
 
 .. |REPLACE1| raw:: html
@@ -245,9 +249,13 @@ Il Trentino dei bambini, delle famiglie e della montagna
 
 .. |LINK28| raw:: html
 
-    <a href="https://googledocs.readthedocs.io" target="_blank">https://googledocs.readthedocs.io</a>
+    <a href="https://www.babytrekking.it/" target="_blank">babytrekking.it</a>
 
 .. |LINK29| raw:: html
+
+    <a href="https://googledocs.readthedocs.io" target="_blank">https://googledocs.readthedocs.io</a>
+
+.. |LINK30| raw:: html
 
     <a href="https://minchia-le-dolomiti.readthedocs.io" target="_blank">minchia-le-dolomiti.readthedocs.io</a>
 
